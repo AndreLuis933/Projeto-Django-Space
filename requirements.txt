@@ -5,3 +5,4 @@ python-dotenv==1.0.1
 setuptools==71.1.0
 virtualenv==20.26.3
 wheel==0.43.0
+python manage.py runserver
