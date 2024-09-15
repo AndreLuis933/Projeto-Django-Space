@@ -1,8 +1,4 @@
-distlib==0.3.8
-filelock==3.15.4
-platformdirs==4.2.2
-python-dotenv==1.0.1
-setuptools==71.1.0
-virtualenv==20.26.3
-wheel==0.43.0
-python manage.py runserver
+asgiref==3.5.2
+Django==4.1
+python-dotenv==0.20.0
+sqlparse==0.4.2
